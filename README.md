@@ -2,69 +2,187 @@
 
 ![](cover_page.png)
 
-# Welcome to My Hacking Journey
+# Whoami - Z3R0
 
-## By *Z3R0*
+**Offensive Security Researcher | Penetration Tester | Red Teamer**
 
-Hey there! I’m a cybersecurity researcher — a passionate **penetration tester**, **red teamer**, and all-around **offensive hacker** who thrives on uncovering the unexpected and pushing the boundaries of security.
-
-Over the years, I’ve had the privilege of tackling countless security challenges, exploring various techniques, and solving complex problems in unique and creative ways. Through this platform, I want to share my knowledge, experiences, and passion for hacking with the community that made me who I am.
+> *"With curiosity, any system can be owned and with dedication any hack can be stopped."*
 
 ---
-## 📖 What This Page Is About
+## 👨‍💻 About Me
 
-This is the **Introduction** to my live journey toward the **OSCP** certification.
+I’m an offensive security enthusiast focused on **real-world exploitation, creative attack paths, and deep technical research**.
 
-Here, I’ll be sharing detailed **Hack The Box (HTB) writeups**, **TryHackMe (THM)**, and **Proving Grounds (PG)** walkthroughs, and insights—designed for both beginners and seasoned hackers. Whether you're:
+I don’t just run tools — I break systems apart to understand _why_ they fail. My approach blends structured methodology with curiosity-driven exploration, allowing me to uncover vulnerabilities others might overlook.
 
-- Just starting out in cybersecurity
-- Preparing for your **OSCP**
-- Brushing up on specific techniques
-- Or simply addicted to hacking like I am...
+Currently on a focused journey toward **OSCP-level mastery**, documenting everything along the way — from enumeration to full domain compromise.
 
-You’ll find valuable content here to boost your skills, one machine at a time.
+This is not just a certification path.  
+It’s a mission to continuously evolve.
 
 ---
-## 🔥 My Passion Areas
+## 🛠 Core Skills & Technical Arsenal
 
-I'm a hands-on hacker who loves diving deep into a wide variety of offensive topics. Some of the areas I specialize in:
+### 🔍 Offensive Security & Penetration Testing
+- End-to-end security assessments across web applications, internal networks, and standalone systems
+- Black-box, white-box, and gray-box testing methodologies
+- Vulnerability identification, exploitation, and impact validation
+- Structured reporting with risk-based analysis and remediation guidance
+### 🌐 Application & Web Security
+- Identification and exploitation of common and advanced web vulnerabilities
+- Authentication, authorization, and business logic testing
+- API security assessment
+- Secure code review fundamentals and misconfiguration analysis
+### 🖥 System Exploitation & Vulnerability Research
+- Software vulnerability analysis and exploit development
+- Binary analysis and debugging
+- Mitigation bypass techniques
+- Manual exploitation beyond automated tooling
+### 🧠 Reverse Engineering & Analysis
+- Static and dynamic binary analysis
+- Code deconstruction and behavioral analysis
+- Obfuscation analysis and logic reconstruction
+### 🏴 Privilege Escalation & Post-Exploitation
+- Windows and Linux privilege escalation techniques
+- Credential access and lateral movement strategies
+- Persistence mechanisms and environment pivoting
+- Post-exploitation enumeration and impact assessment
+### 🏢 Active Directory & Enterprise Attacks
+- Domain enumeration and attack path analysis
+- Credential abuse and trust relationship exploitation
+- Lateral movement within enterprise environments
+- Red team–style domain compromise simulations
+### 🔐 Offensive Operations & Red Team Methodology
+- Attack chain development and adversary simulation
+- Operational security awareness
+- Payload customization and controlled execution
+- Infrastructure-based testing and lab design
 
-- Binary Exploitation
-- Web Application Exploitation
-- Privilege Escalation (Windows & Linux)
-- Reverse Engineering
-- Network Attacks & Exploits
-- Cryptography Challenges
-- Post-Exploitation Techniques
-- Windows & Linux Exploitation
-- Active Directory Attacks
+---
+## 🎓 Certifications
+
+<div align="left">  
+  
+<img src="images/oscp.png" width="120"/>
+<br />
+<h3>Offensive Security Certified Professional (OSCP)</h3>
+<p><b>Issuer:</b> Offensive Security</p> 
+
+<hr>
+<br />
+
+<img src="images/CEH.png" width="120"/>
+<br />
+<h3>C|EH - Certified Ethical Hacker (Master)</h3>
+<p><b>Issuer:</b> EC-Council</p>
+
+<hr>
+<br />
+
+<img src="images/CCT.png" width="120"/> 
+<br />
+<h3>C|CT - Certified Cybersecurity Technician</h3> 
+<p><b>Issuer:</b> EC-Council</p>
+
+<hr>
+<br />
+
+<img src="images/comptiasec.png" width="120"/>
+<br />
+<h3>CompTIA Security+</h3>
+<p><b>Issuer:</b> CompTIA</p>
+
+<hr>
+<br />
+
+<img src="images/RHCSA.png" width="120"/>
+<br />
+<h3>RHCSA - Redhat Certified System Administrator</h3>
+<p><b>Issuer:</b> Redhat Enterprise</p>
+
+<hr>
+</div>
+
+## 🚀 Featured Projects
+
+### 👾 MalwareAcademy - Malware Documentations
+
+**Date:** Jan 2026 - Present  
+
+**Description:**  
+Security research project focused on Linux kernel internals and advanced kernel module development. Explored syscall hooking, stealth techniques, privilege escalation, and modern mitigation bypasses (SMEP/SMAP/KASLR). Developed 40+ proof-of-concept implementations across multiple domains in isolated lab environments for defensive research and detection strategy development.
 
 ---
 
-## 💬 My Goal
+### 👁️ ZeroEye - Threat Monitoring Tool
 
-This isn't just about my certification. It’s about building a **community**.  
-A space for hackers, learners, and enthusiasts to grow, collaborate, and thrive.
+**Date:** Jan 2026 - Present  
 
-If you're into:
-
-- Hack The Box machines
-- Try Hack Me Walkthroughs
-- Proving Ground Machines
-- Capture The Flag (CTF) events
-- Red & Blue Teaming
-- Hardware & IoT Hacking
-- Cybersecurity discussions of all kinds...
-
-Then you’ll feel right at home here.
+**Description:**  
+Automated threat monitoring tool that tracks Pastebin and GitHub Gists in near real-time to detect phishing, malware, credential leaks, and scams. Implements intelligent keyword detection, IOC extraction, duplicate filtering, and structured logging. Designed to provide early warning intelligence for blue team and threat research operations.
 
 ---
 
-## 🧠 Final Words
+### 🏛️ Hall of Threats - Documentations
 
-> I don’t consider myself a professional—and maybe I never will. There’s always someone better.  
-> But I’m on a mission to build a space where **we all grow together**—because that’s what real hacking is about.
+**Date:** Nov 2025 - Present  
 
-Stay curious. Stay sharp. Stay ethical.  
-Let’s hack the world, **one box at a time**.  
-— _zero_
+**Description:**  
+Ongoing threat intelligence documentation project analyzing real-world threat actors and their TTPs. Includes attack chain reconstruction, behavioral analysis, and IoC documentation derived from OSINT and active threat hunting. Focused on translating observed attack patterns into actionable defensive insights.
+
+---
+
+### 🔐 0Password - Secure Offline Password Manager
+
+**Date:** Jul 2025 - Jul 2025  
+
+**Description:**  
+Privacy-focused offline password manager built in Python with zero cloud dependencies. Implemented Argon2/PBKDF2 key derivation and encrypted SQLite storage using Fernet (AES + HMAC). Designed for complete local data sovereignty with secure credential handling and portable distribution.
+
+---
+
+### ⛓️‍💥 Penetration Test and CTF - ENPM685 Grade Server
+
+**Date:** May 2025 - May 2025  
+
+**Description:**  
+Conducted a full-scope penetration test on a vulnerable “grade server” as part of a graduate security course. Performed reconnaissance-to-exploitation workflow to capture four hidden flags simulating real-world attack scenarios. Delivered a professional penetration test report and achieved a perfect score.
+
+---
+
+### 🖥️ Cybersecurity Incident Response Tabletop Exercise - Terrapin, Inc.
+
+**Date:** May 2025 - May 2025  
+
+**Description:**  
+Participated in a structured incident response simulation involving a multi-domain Active Directory environment. Assumed IT leadership roles to assess risk, coordinate response actions, and adapt to evolving attack scenarios. Produced a comprehensive post-incident report outlining decisions and lessons learned.
+
+---
+
+### 💥 Demonstration and Analysis of Malware Attacks and Cyber Threat Vectors
+
+**Date:** Jun 2024 - Jun 2024  
+
+**Description:**  
+Undergraduate capstone project demonstrating phishing, reverse shell, and ransomware attack simulations in controlled lab environments. Analyzed threat actors and common attack vectors while showcasing practical exploitation techniques. Focused on awareness, detection, and defensive strategy reinforcement.
+
+---
+## 🧭 Final Word
+
+Security is not a destination — it’s a continuous pursuit of understanding how systems break and how they can be strengthened.
+
+My goal is not just to earn certifications, but to develop the depth required to operate at a professional offensive security level — where creativity, precision, and discipline intersect.
+
+Every lab, every exploit, and every writeup is a step toward mastery.
+
+The journey continues.
+
+
+
+
+
+
+
+
+
+
