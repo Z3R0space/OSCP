@@ -3,6 +3,7 @@
 ![](cover_page.png)
 
 # Whoami - Z3R0
+###### *By Prince Patel*
 
 **Offensive Security Researcher | Penetration Tester | Red Teamer**
 
@@ -65,7 +66,15 @@ It’s a mission to continuously evolve.
 
 ## 🎓 Certifications
 
-<div align="left">  
+<div align="left">
+
+<img src="images/OSCP_plus.svg" width="80"/>
+<br />
+<h4>Offensive Security Certified Professional - Plus (OSCP+)</h4>
+<p><b>Issuer:</b> Offensive Security</p>
+
+<hr>
+<br />
   
 <img src="images/oscp.png" width="80"/>
 <br />
@@ -105,6 +114,7 @@ It’s a mission to continuously evolve.
 
 <hr>
 </div>
+
 
 ## 🚀 Featured Projects
 
