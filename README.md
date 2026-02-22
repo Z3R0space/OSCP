@@ -20,7 +20,9 @@ Currently on a focused journey toward **OSCP-level mastery**, documenting everyt
 This is not just a certification path.  
 It’s a mission to continuously evolve.
 
+
 ---
+
 ## 🛠 Core Skills & Technical Arsenal
 
 ### 🔍 Offensive Security & Penetration Testing
@@ -58,14 +60,16 @@ It’s a mission to continuously evolve.
 - Payload customization and controlled execution
 - Infrastructure-based testing and lab design
 
+
 ---
+
 ## 🎓 Certifications
 
 <div align="left">  
   
 <img src="images/oscp.png" width="120"/>
 <br />
-<h3>Offensive Security Certified Professional (OSCP)</h3>
+<h4>Offensive Security Certified Professional (OSCP)</h4>
 <p><b>Issuer:</b> Offensive Security</p> 
 
 <hr>
@@ -73,7 +77,7 @@ It’s a mission to continuously evolve.
 
 <img src="images/CEH.png" width="120"/>
 <br />
-<h3>C|EH - Certified Ethical Hacker (Master)</h3>
+<h4>C|EH - Certified Ethical Hacker (Master)</h4>
 <p><b>Issuer:</b> EC-Council</p>
 
 <hr>
@@ -81,7 +85,7 @@ It’s a mission to continuously evolve.
 
 <img src="images/CCT.png" width="120"/> 
 <br />
-<h3>C|CT - Certified Cybersecurity Technician</h3> 
+<h4>C|CT - Certified Cybersecurity Technician</h4> 
 <p><b>Issuer:</b> EC-Council</p>
 
 <hr>
@@ -89,7 +93,7 @@ It’s a mission to continuously evolve.
 
 <img src="images/comptiasec.png" width="120"/>
 <br />
-<h3>CompTIA Security+</h3>
+<h4>CompTIA Security+</h4>
 <p><b>Issuer:</b> CompTIA</p>
 
 <hr>
@@ -97,7 +101,7 @@ It’s a mission to continuously evolve.
 
 <img src="images/RHCSA.png" width="120"/>
 <br />
-<h3>RHCSA - Redhat Certified System Administrator</h3>
+<h4>RHCSA - Redhat Certified System Administrator</h4>
 <p><b>Issuer:</b> Redhat Enterprise</p>
 
 <hr>
@@ -112,7 +116,6 @@ It’s a mission to continuously evolve.
 **Description:**  
 Security research project focused on Linux kernel internals and advanced kernel module development. Explored syscall hooking, stealth techniques, privilege escalation, and modern mitigation bypasses (SMEP/SMAP/KASLR). Developed 40+ proof-of-concept implementations across multiple domains in isolated lab environments for defensive research and detection strategy development.
 
----
 
 ### 👁️ ZeroEye - Threat Monitoring Tool
 
@@ -121,7 +124,6 @@ Security research project focused on Linux kernel internals and advanced kernel 
 **Description:**  
 Automated threat monitoring tool that tracks Pastebin and GitHub Gists in near real-time to detect phishing, malware, credential leaks, and scams. Implements intelligent keyword detection, IOC extraction, duplicate filtering, and structured logging. Designed to provide early warning intelligence for blue team and threat research operations.
 
----
 
 ### 🏛️ Hall of Threats - Documentations
 
@@ -130,7 +132,6 @@ Automated threat monitoring tool that tracks Pastebin and GitHub Gists in near r
 **Description:**  
 Ongoing threat intelligence documentation project analyzing real-world threat actors and their TTPs. Includes attack chain reconstruction, behavioral analysis, and IoC documentation derived from OSINT and active threat hunting. Focused on translating observed attack patterns into actionable defensive insights.
 
----
 
 ### 🔐 0Password - Secure Offline Password Manager
 
@@ -139,7 +140,6 @@ Ongoing threat intelligence documentation project analyzing real-world threat ac
 **Description:**  
 Privacy-focused offline password manager built in Python with zero cloud dependencies. Implemented Argon2/PBKDF2 key derivation and encrypted SQLite storage using Fernet (AES + HMAC). Designed for complete local data sovereignty with secure credential handling and portable distribution.
 
----
 
 ### ⛓️‍💥 Penetration Test and CTF - ENPM685 Grade Server
 
@@ -148,7 +148,6 @@ Privacy-focused offline password manager built in Python with zero cloud depende
 **Description:**  
 Conducted a full-scope penetration test on a vulnerable “grade server” as part of a graduate security course. Performed reconnaissance-to-exploitation workflow to capture four hidden flags simulating real-world attack scenarios. Delivered a professional penetration test report and achieved a perfect score.
 
----
 
 ### 🖥️ Cybersecurity Incident Response Tabletop Exercise - Terrapin, Inc.
 
@@ -157,7 +156,6 @@ Conducted a full-scope penetration test on a vulnerable “grade server” as pa
 **Description:**  
 Participated in a structured incident response simulation involving a multi-domain Active Directory environment. Assumed IT leadership roles to assess risk, coordinate response actions, and adapt to evolving attack scenarios. Produced a comprehensive post-incident report outlining decisions and lessons learned.
 
----
 
 ### 💥 Demonstration and Analysis of Malware Attacks and Cyber Threat Vectors
 
@@ -166,7 +164,9 @@ Participated in a structured incident response simulation involving a multi-doma
 **Description:**  
 Undergraduate capstone project demonstrating phishing, reverse shell, and ransomware attack simulations in controlled lab environments. Analyzed threat actors and common attack vectors while showcasing practical exploitation techniques. Focused on awareness, detection, and defensive strategy reinforcement.
 
+
 ---
+
 ## 🧭 Final Word
 
 Security is not a destination — it’s a continuous pursuit of understanding how systems break and how they can be strengthened.
