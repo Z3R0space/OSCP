@@ -100,7 +100,6 @@ It’s a mission to continuously evolve.
 <br />
 
 <img src="images/RHCSA.png" width="120"/>
-<br />
 <h4>RHCSA - Redhat Certified System Administrator</h4>
 <p><b>Issuer:</b> Redhat Enterprise</p>
 
