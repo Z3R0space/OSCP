@@ -67,7 +67,7 @@ It’s a mission to continuously evolve.
 
 <div align="left">  
   
-<img src="images/oscp.png" width="120"/>
+<img src="images/oscp.png" width="80"/>
 <br />
 <h4>Offensive Security Certified Professional (OSCP)</h4>
 <p><b>Issuer:</b> Offensive Security</p> 
@@ -75,7 +75,7 @@ It’s a mission to continuously evolve.
 <hr>
 <br />
 
-<img src="images/CEH.png" width="120"/>
+<img src="images/CEH.png" width="80"/>
 <br />
 <h4>C|EH - Certified Ethical Hacker (Master)</h4>
 <p><b>Issuer:</b> EC-Council</p>
@@ -83,7 +83,7 @@ It’s a mission to continuously evolve.
 <hr>
 <br />
 
-<img src="images/CCT.png" width="120"/> 
+<img src="images/CCT.png" width="80"/> 
 <br />
 <h4>C|CT - Certified Cybersecurity Technician</h4> 
 <p><b>Issuer:</b> EC-Council</p>
@@ -91,7 +91,7 @@ It’s a mission to continuously evolve.
 <hr>
 <br />
 
-<img src="images/comptiasec.png" width="120"/>
+<img src="images/comptiasec.png" width="80"/>
 <br />
 <h4>CompTIA Security+</h4>
 <p><b>Issuer:</b> CompTIA</p>
@@ -99,7 +99,7 @@ It’s a mission to continuously evolve.
 <hr>
 <br />
 
-<img src="images/RHCSA.png" width="120"/>
+<img src="images/RHCSA.png" width="80"/>
 <h4>RHCSA - Redhat Certified System Administrator</h4>
 <p><b>Issuer:</b> Redhat Enterprise</p>
 
