@@ -108,6 +108,14 @@ It’s a mission to continuously evolve.
 <hr>
 <br />
 
+<img src="images/googlecyber.png" width="80"/>
+<br />
+<h4>Google Cybersecurity Certificate</h4>
+<p><b>Issuer:</b> Google (via Coursera)</p>
+
+<hr>
+<br />
+
 <img src="images/RHCSA.png" width="80"/>
 <h4>RHCSA - Redhat Certified System Administrator</h4>
 <p><b>Issuer:</b> Redhat Enterprise</p>
