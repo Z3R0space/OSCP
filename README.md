@@ -71,7 +71,7 @@ It’s a mission to continuously evolve.
 <hr>
 <br />
 
-<img src="images/OSCP_plus.png" width="60"/>
+<img src="images/OSCP_plus.png" width="80"/>
 <br />
 <h4>Offensive Security Certified Professional - Plus (OSCP+)</h4>
 <p><b>Issuer:</b> Offensive Security</p>
@@ -107,13 +107,6 @@ It’s a mission to continuously evolve.
 <br />
 <h4>CompTIA Security+</h4>
 <p><b>Issuer:</b> CompTIA</p>
-
-<hr>
-<br />
-
-<img src="images/RHCSA.png" width="80"/>
-<h4>RHCSA - Redhat Certified System Administrator</h4>
-<p><b>Issuer:</b> Redhat Enterprise</p>
 
 <hr>
 </div>
