@@ -68,6 +68,9 @@ It’s a mission to continuously evolve.
 
 <div align="left">
 
+<hr>
+<br />
+
 <img src="images/OSCP_plus.png" width="60"/>
 <br />
 <h4>Offensive Security Certified Professional - Plus (OSCP+)</h4>
