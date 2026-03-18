@@ -2,8 +2,9 @@
 
 ![](cover_page.png)
 
-# Whoami - Z3R0
-##### As Prince Patel
+# Whoami
+
+###### Prince Patel Aka Zero
 
 **Offensive Security Researcher | Penetration Tester | Red Teamer**
 
