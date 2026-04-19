@@ -25,10 +25,10 @@
   - [Clue Machine](PG-LINUX/Clue_Machine.md)
 - [Hall of Threats](Threat-Hunting/README.md)
   - [🎯Hunting ChangeNOW - A Multi-layered JS Ambush](Threat-Hunting/🎯Hunting%20ChangeNOW%20-%20A%20Multi-layered%20JS%20Ambush.md)
-- [MalwareAcademy](Malware/README.md)
-  - [ZeroMap](Malware/Zeromap-best-port-scanner.md)
-  - [Linux-Rootkit-Kernel-Modules-1](Malware/Linux-rootkit-kernel-modules-1.md)
-  - [Linux-Rootkit-Symbols-2](Malware/Linux-rootkit-symbols-2.md)
+- [MalwareAcademy](Malwares/README.md)
+  - [ZeroMap](Malwares/Zeromap-best-port-scanner.md)
+  - [Linux-Rootkit-Kernel-Modules-1](Malwares/Linux-rootkit-kernel-modules-1.md)
+  - [Linux-Rootkit-Symbols-2](Malwares/Linux-rootkit-symbols-2.md)
   
 
 
