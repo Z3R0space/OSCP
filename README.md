@@ -4,7 +4,7 @@
 
 # Whoami
 
-###### Prince Patel aka Z3R0
+###### Prince aka Z3R0
 
 **Offensive Security Researcher | Penetration Tester | Red Teamer**
 
