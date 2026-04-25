@@ -127,6 +127,13 @@ It’s a mission to continuously evolve.
 
 ## 🚀 Featured Projects
 
+### 🏹 ZeroMap - Fastest & Stealthy Port Scanner
+
+**Date:** Apr 2026 - Present
+
+**Description:**
+Developed a high-performance TCP port scanner in C designed for offensive security, red teaming, and penetration testing workflows. ZeroMap combines Masscan-like speed with Nmap-style stealth by using raw packet crafting through AF_PACKET sockets, bypassing the kernel TCP stack for faster packet transmission and deeper control. Implemented multiple scan modes including SYN, FIN, NULL, XMAS, Fragmented, Slow, and Decoy scans, along with TUN mode for scanning VPN/VLAN/remote targets where Layer 2 access is unavailable. Added passive reconnaissance using Shodan API to perform zero-packet detection-free scans, plus multi-target file scanning, retry logic, stealth post-processing, and service identification.
+
 ### 👾 MalwareAcademy - Malware Documentations
 
 **Date:** Jan 2026 - Present  
