@@ -9,5 +9,5 @@ List of HTB Windows boxes that are solved by ***Z3R0***
 | ![Active](images-active/cover-active.png) | ![Blue](images-blue/cover_blue.png)     |
 | [Escape](Escape_Machine.md)               | [ServMon](ServMon_Machine.md)           |
 | ![Escape](images-escape/cover_escape.png) | ![servmon](images-servmon/servmon.webp) |
-| [Pirate](Pirate_Machice.md)               | SOON                                    |
+| [Pirate](Pirate_Machine.md)               | SOON                                    |
 | ![](images-pirate/pirate_cover.png)       | SOON                                    |
