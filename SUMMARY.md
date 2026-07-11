@@ -18,6 +18,7 @@
   - [Blue Machine](HTB-WINDOWS/Blue_Machine.md)
   - [Escape Machine](HTB-WINDOWS/Escape_Machine.md)
   - [ServMon Machine](HTB-WINDOWS/ServMon_Machine.md)
+  - [Pirate Machine](HTB-WINDOWS/Pirate_Machine.md)
 - [Tryhackme Walkthrough](THM/README.md)
   - [Kenobi](THM/kenobi-THM.md)
 - [Proving Ground - Linux](PG-LINUX/README.md)
